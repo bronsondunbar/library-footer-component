@@ -84,3 +84,5 @@ const FooterComponent = ({ footerData, footerSocial, footerTheme, footerCopyrigh
   )
   
 }
+
+export default FooterComponent

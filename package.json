@@ -1,6 +1,6 @@
 {
   "name": "library-footer-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Footer component for React",
   "main": "./lib/Footer.js",
   "license": "MIT",
