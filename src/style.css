@@ -7265,7 +7265,8 @@ a.text-dark:hover, a.text-dark:focus {
           text-decoration: none; }
 
 .footer p {
-  padding: 0 15px 15px 15px; }
+  padding: 0 15px 15px 15px;
+  text-align: center; }
 
 .footer-bg-light {
   background: #f8f9fa; }
