@@ -138,8 +138,7 @@ render () {
 | footerLeftColumnAlignment  | left, right, center |
 | footerRightColumnAlignment | left, right, center |
 
-* Please note:
+**Please note:**
 
-footerAlignment prop will override footerLeftColumnAlignment and footerRightColumnAlignment
-
-footerLeftColumnAlignment and footerLeftColumnAlignment is available if 2 columns to align each column. If used, don't use footerAlignment
+* *footerAlignment* prop will override *footerLeftColumnAlignment* and *footerRightColumnAlignment*]
+* *footerLeftColumnAlignment* and *footerLeftColumnAlignment* is available if 2 columns to align each column. If used, don't use *footerAlignment*
